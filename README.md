@@ -23,6 +23,7 @@ Sample scraped from the [ESL ProGaming Website](https://pro.eslgaming.com/csgo/p
 ## Results:
 
 **Plots for each variable recorded:**
+
 ![Headshot Ratio vs KD Ratio](https://lh3.googleusercontent.com/NeuDA5RbnuPICm2EzvTR8rH8lAKJGn8nUWoc6hNqGZps8tc6eJLraOfAXejZOQRl2uHbx2So12dP8XtpUuLvOxymNWHns9IK1DANYwvc581_bo6WDNbYReWr5JTIXXoVNmieF22tOQ)
 ![Average Distance per Kill vs KD Ratio](https://lh3.googleusercontent.com/6xVfhlwXBMayEoightAp0FhI0hQl4IDqLMut3NvXyjuCPEA4bIoakJ2Zny-nkbAPv_JG5E_ZgJh4YRH2SuPozgLjQIu_Vd8-9bx7AnywHYgSXxzA6J_7rkmLzDUIyjWpwH0IPez1IA)
 ![Aces vs KD Ratio](https://lh3.googleusercontent.com/_Qnq03CdXP5jiGrcuMiCyXIDfz8rqH1nS0RKJMap1iryv3ySmwYp4wvdm8iwCYnuwJ5Q5H5Tbk6IT2ns6JiFceex0ZCU29Prq_hJiqVbPX7pjRYsCb9qltPfiCyFwKDgTwZblLvETg)
@@ -85,5 +86,9 @@ Warnings:
 [2] The condition number is large, 6.79e+03. This might indicate that there are
 strong multicollinearity or other numerical problems.
 ```
+
+## Analysis and Conclusion
+
+As for our available data, it is very shocking to see that there is a slightly negative trend on Headshot Ratios. The very low R-squared value does not impress me, as it shows lots of deviation from the regression line. Oddly enough, the p-values of the regression analysis show promising results, allowing us to conclude that there is a correlation between the two variables: Headshots and KD Ratio.
 
 ###### **PLEASE NOTE: THIS IS A SIDE PROJECT; IT IS NOT 100% COMPLETE AND MAY INCLUDE ERRORS THAT I MAY HAVE NOT FORSEEN. PAY ATTENTION AND READ *AT YOUR OWN RISK*.**
