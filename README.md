@@ -1,9 +1,10 @@
 # CS:Git_Good: How to Get More Kills in CS:GO?
 ## Analysing basic professional level CS:GO statistics
 
+
 **Have you ever wondered how people have such *HIGH* Kill/Death ratios in professional CS:GO matches?**
 
-No? Well don't fret, because I'm still going to show my findings to you anyways.
+No? Well don't fret, because I'm still going to show you my findings anyways.
 
 **Language**: Python
 
@@ -22,7 +23,9 @@ Sample scraped from the [ESL ProGaming Website](https://pro.eslgaming.com/csgo/p
 ## Results:
 
 **Plots for each variable recorded:**
-![Aces vs KD Ratio](https://photos.app.goo.gl/KAFgs8QDe8qCmNyK7)
+![Headshot Ratio vs KD Ratio](https://lh3.googleusercontent.com/NeuDA5RbnuPICm2EzvTR8rH8lAKJGn8nUWoc6hNqGZps8tc6eJLraOfAXejZOQRl2uHbx2So12dP8XtpUuLvOxymNWHns9IK1DANYwvc581_bo6WDNbYReWr5JTIXXoVNmieF22tOQ)
+![Average Distance per Kill vs KD Ratio](https://lh3.googleusercontent.com/6xVfhlwXBMayEoightAp0FhI0hQl4IDqLMut3NvXyjuCPEA4bIoakJ2Zny-nkbAPv_JG5E_ZgJh4YRH2SuPozgLjQIu_Vd8-9bx7AnywHYgSXxzA6J_7rkmLzDUIyjWpwH0IPez1IA)
+![Aces vs KD Ratio](https://lh3.googleusercontent.com/_Qnq03CdXP5jiGrcuMiCyXIDfz8rqH1nS0RKJMap1iryv3ySmwYp4wvdm8iwCYnuwJ5Q5H5Tbk6IT2ns6JiFceex0ZCU29Prq_hJiqVbPX7pjRYsCb9qltPfiCyFwKDgTwZblLvETg)
 
 ###### Regression Results for Headshot vs KD Ratio
 ```
