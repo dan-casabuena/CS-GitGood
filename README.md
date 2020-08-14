@@ -6,6 +6,7 @@
 No? Well don't fret, because I'm still going to show my findings to you anyways.
 
 Language: Python
+
 Libraries Used: Selenium, BeautifulSoup, pandas, numpy, scikitlearn, statsmodels
 
 
